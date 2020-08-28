@@ -4,6 +4,7 @@ public class ApplicationStart {
 
 
     System.out.println("Проверка");
+    System.out.println("Больше проверок");
 
 
   }
